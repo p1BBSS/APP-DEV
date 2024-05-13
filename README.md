@@ -2,6 +2,8 @@
 MY FIRST REPOSITORY
 # Peaky Blinders
 
+![Peaky Blinders]([https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Peaky_Blinders_title_card.jpg/250px-Peaky_Blinders_title_card.jpg](https://wallpaperaccess.com/full/1087736.jpg)
+
 **Genre:** Crime, Drama  
 **Created by:** Steven Knight  
 **Starring:**  
